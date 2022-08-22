@@ -1,1 +1,1 @@
-Changes someone else made to a file.
+Changes someone else made to file.
